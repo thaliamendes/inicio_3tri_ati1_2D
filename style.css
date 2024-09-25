@@ -4,6 +4,8 @@ h1{text-align: center;
     border-style: dashed;
     border-width: 10%;
     border-color: black;
+    border-left: 10%;
+    border-right: 10%;
 }
 h2{color: white;
     margin-left: 5%;
