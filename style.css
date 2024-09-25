@@ -1,17 +1,17 @@
-body{background-color: black;}
+
 h1{text-align: center;
     color: darkred;
     border-style: dashed;
     border-width: 10%;
-    border-color: white;
+    border-color: rgb(0, 0, 0);
     border-left: 10%;
     border-right: 10%;
 }
-h2{color:white;
+h2{color:rgb(0, 0, 0);
     margin-left: 5%;
 }
 h3{margin-left: 5%;
-    color: white;
+    color: rgb(0, 0, 0);
 }
 #ima2 {margin-left: 10%;
     width: 60%;
