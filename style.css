@@ -1,4 +1,4 @@
-body{background-color: white;}
+
 h1{text-align: center;
     color: darkred;
     border-style: dashed;
@@ -7,12 +7,10 @@ h1{text-align: center;
     border-left: 10%;
     border-right: 10%;
 }
-h2{color:rgb(0, 0, 0);
-    margin-left: 5%;
+h2{ margin-left: 5%;
 }
 h3{margin-left: 5%;
-    color: rgb(0, 0, 0);
-}
+   
 #ima2 {margin-left: 10%;
     width: 60%;
     border-width: 5%;
