@@ -1,11 +1,14 @@
-
+body{color: black;}
 h1{text-align: center;
     color: darkred;
     border-style: dashed;
     border-width: 10%;
     border-color: black;
 }
+h2{color: white;
+}
 h3{margin-left: 5%;
+    color: white;
 }
 #ima2 {margin-left: 10%;
     width: 60%;
