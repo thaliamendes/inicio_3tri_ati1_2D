@@ -1,35 +1,30 @@
 body{background-color: blueviolet;
 }
-
 h1{text-align: center;
     color:black;
     border-width: 10px ;
     border-color: darkred;
     border-style: initial;
-    margin-left: 10%;
-    margin-left: 10%;
 }
-
 h2{margin-left: 12%;
-margin-right: 10%;
 }
-
 h3{margin-left: 12%;
-margin-right: 10%;
 }
-
 #ima2 {width: 60%;
     border-width: 10px;
     border-color: darkcyan;
     border-style: dashed;
     margin-left: 12%;
     margin-right: 10%;
+    padding-left: 10%;
+    padding-top: 1%;
+    padding-bottom: 1%;
 }
-
 #ima1 {width: 40%;
     border-width: 10px;
     border-color: darkturquoise;
     border-style: dotted;
-    margin-left: 12%;
-    margin-right: 10%;
+    padding-left: 10%;
+    padding-top: 1%;
+    padding-bottom: 1%;
 }
