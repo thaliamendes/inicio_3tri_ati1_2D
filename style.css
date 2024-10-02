@@ -3,7 +3,7 @@ body{background-color: blueviolet;
 h1{text-align: center;
     color: rgb(104, 0, 0);
     border-width: 10px ;
-    border-color: rgb(151, 22, 22);
+    border-color: rgb(116, 0, 0);
     border-style: initial;
     margin-left: 10%;
     margin-right: 10%;
@@ -18,7 +18,7 @@ h3{margin-left: 12%;
 margin-right: 10%;
 }
 #ima2 {border-width: 10px;
-    border-color: rgb(134, 30, 30);
+    border-color: rgb(112, 0, 0);
      border-style: dashed;
      margin-left: 12%;
      margin-right: 10%;
@@ -27,7 +27,7 @@ margin-right: 10%;
      padding-bottom:1%;
  }
 #ima1 {border-width: 10px;
-    border-color: rgb(155, 28, 28);
+    border-color: rgb(153, 0, 0);
     border-style: dotted;
     margin-left: 12%;
     margin-right: 10%;
