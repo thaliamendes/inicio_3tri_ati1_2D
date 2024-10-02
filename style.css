@@ -13,18 +13,12 @@ padding-bottom: 1%;
 }
 h2{margin-left: 12%;
 margin-right: 10%;
-padding-left: 15%;
-padding-top: 1%;
-padding-bottom:1%;
 }
 h3{margin-left: 12%;
 margin-right: 10%;
-padding-left: 15%;
-padding-top: 1%;
-padding-bottom:1%;
 }
 #ima2 {border-width: 10px;
-    border-color: darkred;
+   border-color: brown;
     border-style: dashed;
     margin-left: 12%;
     margin-right: 10%;
@@ -33,7 +27,7 @@ padding-bottom:1%;
     padding-bottom:1%;
 }
 #ima1 {border-width: 10px;
-    border-color: darkred;
+    border-color: brown;
     border-style: dotted;
     margin-left: 12%;
     margin-right: 10%;
