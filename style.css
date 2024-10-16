@@ -34,9 +34,15 @@ h3{margin-left: 12%;
     padding-top: 5%;
     padding-bottom: 1%;
 }
-main{background-color: blueviolet;
+main{background-color: rgb(57, 8, 102);
+    border-width: 5px;
+    border-color: black;
+    border-style: unset;
 }
-footer{color: blue;
+footer{color: rgb(114, 114, 189);
 }
-header {color: brown;
+header {color: rgb(94, 0, 0);
+    border-width: 5px;
+    border-color: black;
+    border-style: hidden;
 }
