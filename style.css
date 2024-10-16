@@ -6,9 +6,9 @@ h1{text-align: center;
     border-width: 10px ;
     border-color: black;
     border-style: initial;
-    padding-left: 5%;
-    padding-top: 1%;
-    padding-bottom: 1%;
+    padding-left: 9%;
+    padding-top: 9%;
+    padding-bottom: 9%;
 }
 h2{margin-left: 12%;
     margin-right: 10%;
@@ -22,17 +22,17 @@ h3{margin-left: 12%;
     border-style: dashed;
     margin-left: 12%;
     margin-right: 10%;
-    padding-left: 10%;
-    padding-top: 1%;
-    padding-bottom: 1%;
+    padding-left: 9%;
+    padding-top: 9%;
+    padding-bottom: 9%;
 }
 #ima1 {width: 40%;
     border-width: 10px;
     border-color:darkturquoise;
     border-style: dotted;
-    padding-left: 10%;
-    padding-top: 1%;
-    padding-bottom: 1%;
+    padding-left: 9%;
+    padding-top: 9%;
+    padding-bottom: 9%;
 }
 main{background-color: blueviolet;
 }
